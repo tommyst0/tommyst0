@@ -1,50 +1,34 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mateus0sh&show_icons=true&title_color=101010&text_color=FFFFFF&icon_color=909090&bg_color=101010&cache_seconds=2300" alt="ilustração do status do github">
-<img src="https://img.shields.io/static/v1?label=Overview&message=Mateus+Mesquita&color=101010&style=for-the-badge&logo=GitHub" alt="Static GitHub"></br>
+<img src="https://img.shields.io/static/v1?label=Overview&message=mateus0sh&color=303030&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+  
+<img
+  align='right'
+  width="300"
+  src="https://github-profile-trophy.vercel.app/?username=mateus0sh&column=3&margin-w=5&margin-h=5"
+/>
 
 <p>Entusiasta de Engenharia Reversa, Game Hacking e Desenvolvimento de Software, com forte interesse em Computação e inovação.</p>
 
-### ⚙️ GitHub Analytics
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Py](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=mateus0sh&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mateus0sh&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+---
 
---- 
-
-### 🏆 GitHub Profile Trophy
-
+<div align="center">
+  
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=mateus0sh&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
+  <strong>"Idiots admire complexity.<br>
+  Genius admires simplicity."</strong><br>
+  — <em>Terry A. Davis</em>
 </p>
 
+
+</div>
